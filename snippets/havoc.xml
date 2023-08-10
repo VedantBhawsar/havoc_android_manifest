@@ -16,7 +16,7 @@
           revision="ten" />
 
   <remote name="havoc-gapps"
-          fetch="https://gitlab.com/havoc_os"
+          fetch="https://github.com/ahmedmoselhi"
           revision="ten" />
 
   <!-- General -->

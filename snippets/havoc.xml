@@ -17,7 +17,7 @@
 
   <remote name="havoc-gapps"
           fetch="https://github.com/ahmedmoselhi"
-          revision="ten" />
+          revision="10.0" />
 
   <!-- General -->
   <project path="art" name="android_art" remote="havoc" />
